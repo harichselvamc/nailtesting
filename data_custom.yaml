@@ -1,0 +1,5 @@
+train : C:\Users\haric\OneDrive\Desktop\client\anemia 3\train
+val: C:\Users\haric\OneDrive\Desktop\client\anemia 3\val
+
+nc: 1
+names: ["nail"]
